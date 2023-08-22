@@ -1,0 +1,22 @@
+{
+  "name": "levi2k",
+  "configs": [
+    {
+      "name": "cubit",
+      "commands": [
+        {
+          "name": "New Cubit",
+          "templates": [
+            "cubit"
+          ],
+          "files": [
+            "cubit\\bloc",
+            "cubit\\state",
+            "pages\\page",
+            "widgets\\widget"
+          ]
+        }
+      ]
+    }
+  ]
+}
